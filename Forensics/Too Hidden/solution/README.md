@@ -1,0 +1,1 @@
+Please refer this for the official solution: https://odintheprotector.github.io/2024/12/02/WWF-CTF-2024-official-forensic-writeup.html
