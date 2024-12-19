@@ -1,0 +1,1 @@
+Please refer this for the official solution: https://vjz3r.github.io/posts/world_wide_ctf_2024/worldwidectf/#to-the-sky
