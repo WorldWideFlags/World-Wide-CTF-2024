@@ -1,0 +1,1 @@
+Please refer this for the official solution: https://github.com/Qynklee/Public_CTF_Writeups/blob/main/WWFCTF-2024/Remind's%20funny%20stories%203/solution/solution.md
