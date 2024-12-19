@@ -3,6 +3,7 @@
 This repository contains official **source code** and **writeups** for challenges from [World Wide CTF 2024](https://ctftime.org/event/2572).
 
 **Date and Time**: 30th November, 2024, 12:00 pm UTC to 1st December, 2024, 12:00 pm UTC
+
 **Duration**: 24 hours
 
 ![Scoreboard](Assets/scoreboard.png)
