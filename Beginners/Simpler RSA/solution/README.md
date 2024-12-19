@@ -1,0 +1,1 @@
+Please refer this for the official solution: https://yun.ng/c/ctf/2024-wwctf/crypto/simpler-rsa

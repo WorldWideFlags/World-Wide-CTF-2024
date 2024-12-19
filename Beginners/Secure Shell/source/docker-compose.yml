@@ -1,0 +1,10 @@
+version: '3.4'
+
+services:
+  follow:
+    image: follow
+    ports:
+      - "9001:80"
+    build:
+      context: .
+      dockerfile: ./Dockerfile
